@@ -1,3 +1,5 @@
+> This is likely a dated implementation, but it's a good reference for Rod in Lambda proof-of-concept.
+
 Basic [Rod](https://github.com/go-rod/rod) implementation in AWS Lambda. Spins up a [function url](https://docs.aws.amazon.com/lambda/latest/dg/lambda-urls.html).
 
 Deploy it via the AWS SAM cli:
